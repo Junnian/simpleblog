@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
 
-LANGUAGE_CODE = 'zh-cn'
+LANGUAGE_CODE = 'zh-Hans'
 
 TIME_ZONE = 'Asia/Shanghai'
 
@@ -120,3 +120,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+
+
